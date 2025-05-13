@@ -1,4 +1,4 @@
-const user = "aditya";
+const user = "demo";
 
 const greet = (userName) => {
   console.log("Hello " + userName);
